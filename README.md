@@ -1,4 +1,4 @@
-# React Movies Project
+# React Movies Project 💻
 
 Project made with React with educational purpose. On this project i'm studying rotes e file architeture, but this time with a little pinch of software architeture
 
